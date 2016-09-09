@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MergeSort", "MergeSort\MergeSort.pyproj", "{ADD8E17E-8386-4C9C-A3D0-0096DF285602}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HeapSort", "HeapSort\HeapSort.pyproj", "{971E340C-585E-4A83-A428-258BEC49F389}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADD8E17E-8386-4C9C-A3D0-0096DF285602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD8E17E-8386-4C9C-A3D0-0096DF285602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD8E17E-8386-4C9C-A3D0-0096DF285602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD8E17E-8386-4C9C-A3D0-0096DF285602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{971E340C-585E-4A83-A428-258BEC49F389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{971E340C-585E-4A83-A428-258BEC49F389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{971E340C-585E-4A83-A428-258BEC49F389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{971E340C-585E-4A83-A428-258BEC49F389}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
